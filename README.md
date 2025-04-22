@@ -1,2 +1,12 @@
-# Calculadora_Gastos
-Projeto que calcula os gastos mensais, registrando gastos diários e visualizando o total dos gastos.
+# Calculadora de Gastos Mensais
+Este projeto cria uma aplicação simples para ajudar usuários a controlarem seusgastos mensais, inserindo diferentes categorias de despesas e visualizando o total de gastos no mês.
+
+## Adicionar diferentes tipos de gastos
+## Remover gastos
+##Cálculo do total dos gastos mensais
+Interface amigável e responsiva
+
+# Tecnologias utilizadas
+## HTML
+## CSS
+## Java Script
