@@ -53,4 +53,10 @@ function atualizarTabela() {
   
       total += gasto.valor;
     });
-  
+    totalDisplay.textContent = total.toFixed(2);
+}
+
+function removerGasto(index) {
+  gastos.splice(index, 1);
+  atualizarTabela();
+}
