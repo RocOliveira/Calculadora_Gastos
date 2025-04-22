@@ -1,8 +1,10 @@
-const form = document.getElementById("formulario-gasto");
+const form = document.getElementById("form-gasto");
 const tabela = document.querySelector("#tabela-gastos tbody");
 const totalDisplay = document.getElementById("total");
 
 let gastos = [];
+
+//adicionando a lista dos gastos
 
 form.addEventListener("submit", function (e) {
   e.preventDefault();
@@ -17,3 +19,4 @@ form.addEventListener("submit", function (e) {
   atualizarTabela();
   form.reset();
 });
+

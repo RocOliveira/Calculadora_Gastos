@@ -41,11 +41,21 @@ body {
     font-weight: bold;
   }
   
-  button.remover {
+  button.excluir {
     background-color: red;
     color: white;
     border: none;
     padding: 5px 10px;
     border-radius: 5px;
     cursor: pointer;
+  }
+
+  button.editar{
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 5px;
   }
