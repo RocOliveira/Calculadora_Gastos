@@ -14,7 +14,7 @@ O sitema destaca em negrito vermelho os valores maiores que 100,00.
 
 
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 ### HTML
 ### CSS
 ### Java Script
